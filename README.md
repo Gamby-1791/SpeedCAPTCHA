@@ -3,7 +3,7 @@ User script that enhances the efficiency of resolving Google reCAPTCHA challenge
 
 ![Demonstration](https://github.com/Gamby-1791/SpeedCAPTCHA/blob/main/speedCAPTCHA.gif)
 
-## Required Environment
+## Browser Requirements
 
 | Browser | [GreaseMonkey](https://www.greasespot.net/) | [Tampermonkey](http://tampermonkey.net/) | [Violentmonkey](https://violentmonkey.github.io/) |
 | ------- | ------------ | ------------ | ------------- |
@@ -14,7 +14,6 @@ User script that enhances the efficiency of resolving Google reCAPTCHA challenge
 | Safari (10.1+) <sup>(1)</sup> | | [4.3.5421+](https://tampermonkey.net/?browser=safari) |
 | Edge (18-) | | [4.2.5284+](https://www.microsoft.com/store/p/tampermonkey/9nblggh5162s) |
 | Edge (79+) | | [4.10.6111+](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd) | [2.12.8+](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao) |
-| Maxthon | | | [2.1.10+](http://extension.maxthon.cn/detail/index.php?view_id=1680) |
 | Yandex Browser for Android <sup>(2)</sup> | | [4.2.5291+](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo/) | [2.2.6+](https://chrome.google.com/webstore/detail/jinjaccalgkegednnccohejagnlnfdag) |
 | Kiwi Browser <sup>(2)</sup> | | [4.11+](https://chrome.google.com/webstore/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo/) | [2.12.8+](https://chrome.google.com/webstore/detail/jinjaccalgkegednnccohejagnlnfdag) |
 | Firefox for Android (68-)<sup>(3)</sup> | Incompatible | Incompatible | [2.12.8+](https://addons.mozilla.org/firefox/addon/violentmonkey/) |
